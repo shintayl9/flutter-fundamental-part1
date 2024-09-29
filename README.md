@@ -10,7 +10,7 @@ Hasil Image Widget.
 ![Screenshot hello_world](images/03.png)
 Hasil Cupertino Button dan Loading Bar.
 ![Screenshot hello_world](images/04.png)
-Floating Action Button (FAB).
+Hasil Floating Action Button (FAB).
 ![Screenshot hello_world](images/05.png)
 Hasil Scaffold Widget.
 ![Screenshot hello_world](images/06.png)
