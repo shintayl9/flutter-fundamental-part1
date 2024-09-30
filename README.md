@@ -3,7 +3,6 @@
 A new Flutter project.
 
 Praktikum 1:
-
 Langkah 1:
 
 ![Screenshot hello_world](images/langkah_1.png)
