@@ -2,12 +2,17 @@
 
 A new Flutter project.
 
+Praktikum 2:
 Hasil aplikasi flutter pertama.
 ![Screenshot hello_world](images/01.png)
+
+Praktikum 3:
 Hasil Text Widget.
 ![Screenshot hello_world](images/02.png)
 Hasil Image Widget.
 ![Screenshot hello_world](images/03.png)
+
+Praktikum 4:
 Hasil Cupertino Button dan Loading Bar.
 ![Screenshot hello_world](images/04.png)
 Hasil Floating Action Button (FAB).
