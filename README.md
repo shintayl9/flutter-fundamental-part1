@@ -7,10 +7,13 @@ Langkah 1:
 
 ![Screenshot hello_world](images/langkah_1.png)
 Langkah 2:
+
 ![Screenshot hello_world](images/langkah_2.png)
 Langkah 3:
+
 ![Screenshot hello_world](images/langkah_3.png)
 Langkah 4:
+
 ![Screenshot hello_world](images/langkah_4.png)
 
 
