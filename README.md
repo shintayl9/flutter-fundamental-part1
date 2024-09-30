@@ -2,6 +2,13 @@
 
 A new Flutter project.
 
+Praktikum 1:
+![Screenshot hello_world](images/langkah_1.png)
+![Screenshot hello_world](images/langkah_2.png)
+![Screenshot hello_world](images/langkah_3.png)
+![Screenshot hello_world](images/langkah_4.png)
+
+
 Praktikum 2:
 Hasil aplikasi flutter pertama.
 ![Screenshot hello_world](images/01.png)
